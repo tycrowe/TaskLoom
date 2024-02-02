@@ -1,0 +1,15 @@
+# ninja log v5
+1	130	7286160986680016	build.ninja	70995a358c7b8c8b
+4	1783	7286150223755265	src/CMakeFiles/task-loom.dir/backend/DatabaseClient.cpp.obj	d35a5c9fd0dfd4f6
+4	606	7286116502394792	src/CMakeFiles/task-loom.dir/cli/CommandLineInterface.cpp.obj	42d22e1c5fff0b97
+3	1698	7286157580450100	src/CMakeFiles/task-loom.dir/main.cpp.obj	ebe5c9d89b09badb
+1991	3246	7286159815086518	src/task-loom.exe	6d3311ef951e10cf
+3	1991	7286159812521939	src/CMakeFiles/task-loom.dir/cli/TaskLoomInterface.cpp.obj	f4f269f58ba101ad
+15	1866	7286162523904818	src/CMakeFiles/task-loom.dir/main.cpp.obj	ebe5c9d89b09badb
+12	2511	7286162530320845	src/CMakeFiles/task-loom.dir/backend/DatabaseClient.cpp.obj	d35a5c9fd0dfd4f6
+4	2592	7286162531138101	src/CMakeFiles/task-loom.dir/cli/TaskLoomInterface.cpp.obj	f4f269f58ba101ad
+2592	4268	7286162536560199	src/task-loom.exe	6d3311ef951e10cf
+14	1819	7286165424618999	src/CMakeFiles/task-loom.dir/main.cpp.obj	ebe5c9d89b09badb
+4	2476	7286165431161583	src/CMakeFiles/task-loom.dir/backend/DatabaseClient.cpp.obj	d35a5c9fd0dfd4f6
+10	2551	7286165431915622	src/CMakeFiles/task-loom.dir/cli/TaskLoomInterface.cpp.obj	f4f269f58ba101ad
+2551	4202	7286165437313117	src/task-loom.exe	6d3311ef951e10cf

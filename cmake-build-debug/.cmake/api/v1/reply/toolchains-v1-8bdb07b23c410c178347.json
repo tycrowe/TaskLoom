@@ -1,0 +1,94 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/include",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib/gcc",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/x86_64-w64-mingw32/lib",
+						"G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/bin/g++.exe",
+				"version" : "13.1.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "G:/JetBrains/Tools/apps/CLion/ch-0/233.14015.92/bin/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
