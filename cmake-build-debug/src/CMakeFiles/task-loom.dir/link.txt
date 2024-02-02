@@ -1,3 +1,0 @@
-G:\JetBrains\Tools\apps\CLion\ch-0\233.14015.92\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\task-loom.dir/objects.a
-G:\JetBrains\Tools\apps\CLion\ch-0\233.14015.92\bin\mingw\bin\ar.exe qc CMakeFiles\task-loom.dir/objects.a @CMakeFiles\task-loom.dir\objects1.rsp
-G:\JetBrains\Tools\apps\CLion\ch-0\233.14015.92\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\task-loom.dir/objects.a -Wl,--no-whole-archive -o task-loom.exe -Wl,--out-implib,libtask-loom.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\task-loom.dir\linkLibs.rsp

@@ -44,3 +44,5 @@ obj/
 *.class
 *.settings/
 *.vscode/
+cmake-build-debug/*
+
