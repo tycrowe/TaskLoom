@@ -10,4 +10,3 @@ find_package(nlohmann_json CONFIG REQUIRED)
 
 # Add subdirectories
 add_subdirectory(src)
-add_subdirectory(lib/sqlite)

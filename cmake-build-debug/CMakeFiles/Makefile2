@@ -63,33 +63,15 @@ CMAKE_BINARY_DIR = C:\Users\me\Projects\TaskLoom\cmake-build-debug
 
 # The main recursive "all" target.
 all: src/all
-all: lib/sqlite/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
 preinstall: src/preinstall
-preinstall: lib/sqlite/preinstall
 .PHONY : preinstall
 
 # The main recursive "clean" target.
 clean: src/clean
-clean: lib/sqlite/clean
 .PHONY : clean
-
-#=============================================================================
-# Directory level rules for directory lib/sqlite
-
-# Recursive "all" directory target.
-lib/sqlite/all:
-.PHONY : lib/sqlite/all
-
-# Recursive "preinstall" directory target.
-lib/sqlite/preinstall:
-.PHONY : lib/sqlite/preinstall
-
-# Recursive "clean" directory target.
-lib/sqlite/clean:
-.PHONY : lib/sqlite/clean
 
 #=============================================================================
 # Directory level rules for directory src

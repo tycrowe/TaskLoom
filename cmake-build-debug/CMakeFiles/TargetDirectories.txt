@@ -3,5 +3,3 @@ C:/Users/me/Projects/TaskLoom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 C:/Users/me/Projects/TaskLoom/cmake-build-debug/src/CMakeFiles/task-loom.dir
 C:/Users/me/Projects/TaskLoom/cmake-build-debug/src/CMakeFiles/edit_cache.dir
 C:/Users/me/Projects/TaskLoom/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
-C:/Users/me/Projects/TaskLoom/cmake-build-debug/lib/sqlite/CMakeFiles/edit_cache.dir
-C:/Users/me/Projects/TaskLoom/cmake-build-debug/lib/sqlite/CMakeFiles/rebuild_cache.dir
